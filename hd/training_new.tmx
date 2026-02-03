@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="20" tilewidth="128" tileheight="128">
+ <tileset firstgid="1" source="t64_new.tsx"/>
+ <layer name="tilebg" width="30" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWjYBSMAvqAI0B8DIhPUcGsk0B8lEi114H4AhBfBOITUHeQ44arUHNukKDnAhTD3AFywzUk865h0zQKRsEoGPIAAJUJdDZgCQAA
+  </data>
+ </layer>
+ <layer name="tile" width="30" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3S2wqCQBAG4H2Tys5dFJGdLVIRCqLTRUSF2fu/RP/ACJusZ7qJHfgQd2dmHVUIHTp06PjPGEIV7rCFKbRhVqBXBQyub8IV5tCCGtShA10YgAVPuMEYTJhwPtU2uM7gGurZ4z596dwVHGDEHnw1pbU4lqIuuk52fL1I564V/byEHmWcI/PmrfcK1JBTyry/Is+7j3ybuO+XRVI+7R3FdyxKvLs0NBP9V0uhjjf4GWcM//+0XNp/QRBzphwbcMAFm+9tfq5A2ve5Z5gbcI7LHK5TxQf24axFYAkAAA==
+  </data>
+ </layer>
+</map>

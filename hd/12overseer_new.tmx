@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="66" height="45" tilewidth="128" tileheight="128">
+ <tileset firstgid="1" source="t64Desert_new.tsx"/>
+ <layer name="tilebg" width="66" height="45">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+1aAW7bMAzkn/aGvrsCti7rtqZJvSVN0vxlJqZDrqwYyxbddEMOEBLbsiydyCMlW+SKKy6P7325z7//Al7y764v676s6Jxi2ZdHc8+vwrWDufeYry0LdTtqowaH3K728cGcs3ge0a7FHbWtYznXR28MXcW9Q22Mqb8z5w4j2sM4V/l4X3je0Fi2UuZ8m++tmY9SGz9y8erbPv025zr6b23aAuP06o2ZU+CnnGy1FjqXdg6Oua0VndP/Cynza21kJ6ex1dg0NEBx51xv8bFWqI6AD1s2VE/7Wuon6lqep2IzXGVWgI91PrY2AT/8NsOzoTW1fv4eQLzBPOu4F3SsPsnxzIsjYwAfw3OtTUALbBydGzfmeEjjxuibB44/K7fW+8P2S/2lpAGdc74FkXrTCmurnu0rDxHahhxjfeZZl0JNrmTzq6ngHOOj2ALAOYI3Rza/asFQPnZJqE2orXpjjdLJmnzskkD/vLgepZMf1ScAL78EInRyyPemIPXlti+fA9uEjnvrvdYccA5bSH15klgeFOq33WCt8UC+Hq2PSebhAXrJc6+8vMiwViImYs35NRfO1yP18alQoqDzZnMcjL+Wh3Mlan2V5O+4b6lE2YXmCF5/9XhII2D7yE+P8nr/I9IvkpTtIYIHu+eC+BChF9F+kWQ+HmAPN/LaJqAPLYj2C8Wc+sD2oDqhNlHa7xsLcOvlJy2IHD/jk5x8HPszEX2fI2YkmSduWq1TaCyNyH0ec1uRvpEkngfoA+I//sM/pmCbf5/pONI3ksTzwLbAe5Q6hxG2zHE5Om5E8cB9tHE+as3NPH9UHux7q7251qoP7HOK6LwyWidL+4YRa27YAt7RRWlEkjge7P69hfeOqxawBebX5lT6LYN9D1iDJDE8bOl/ae8B+UPrM6AJVoc2clrbTdGMJG08fJHTeljnid9/6tgxNzaXGAvWBazVbJt8Xe1C1+q137kkaePB027ef+D8YSpsLC7x6q3RdT6G+EjSxoO3J2Df63h992C/t2AeWSP4mxFbHuQtHx6SnOeB9VjnhPeFFKyNNj7we2nOLYfA63buB+dje1N3na/DJ21f4FeeTic5z8O9+HyjL963Nvw9B/pWuy7g++x86vMwNzaG4NhqJfq4lrKfJCnzoONfOOPAOX7Hb89tCjxA32rWGWwPvEbBsV1nYNydvJ0T3tf0/KTEg3dfSadL9VjTS3VEpsW25XCVK674r/AH8qaMBmguAAA=
+  </data>
+ </layer>
+ <layer name="tile" width="66" height="45">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+1a605UMRCep0AWjHhlkUSMUWPUGBeICAlREwn6S1YU0ecAFBSUiMt6f1b75czkDN2257I9uxuzXzI5e3rambb7daY3oiGGyMY1I+eMTBuZ5N8X1POSkVNGXhl5rZ7vHGmjrAO6zhs5a2SG7UzksHHaU8dxywbKTXG5abYzxbouc9qMS5EDE1zuppEHRtaMzLHMG2kaafBveX9pZJbT2yqPfJO8L5S+MbZX4zKzKq9tQ/ICB+p3zWFjjvVJnWHzBrelrXS1A31wbGTLyHfOd8y/i+CjJ30vUpntHDptfQ1K+qNFaZtagfpoIF+N8vcFeKTH0Sqd5PgInRxHIa6D43Wug3B8hm1Aj3B8hPLzHPhAyf+8X6CMAJwby8yV9Jnw3sXxJqfJ06ezRifHm3B9TNkAx6+zrTx1E/h458MhhcdPv9GgpK+LIm+bxD/sUDqW9h3fQ+Mk5AeqwAIl7VsM5NE+IU8b8sDuG+AWJf4A344i2MgD+ArExGeU+M4rFI6xsfGJ0nbKHOMqJWO12aM6AOJH4C8w7uEvysS3biD2MMdYMnK3h7ZdgD9Ff6Av4EPPVGwPXNhSgr5oVmyzCFYo6YvH/a5In7FM8fxgFnodDwYVeeej/yuEb73gXFlgTo65RJWx8x4lvji2D/pFSd/+jqALsVSvparAWyNPK9IdE/CViBmbRh5SeJ7pw4KnbJVjQvYTDiPqRPx0xY09T7oNnUfHBZmnxJwvyRp4h9/f8/tuBN0YH1ij2muxzyV0fem+Ol5gPvbV8+0bldsfyIOD7CwdsHkae97g6+cy/5kPdp23nbnCsMvAD5fxOf2C7F3p/Sqsx4r6B9m7mVDpMfkqfPvBun/yexnuuoA4r9fG3ULHoVh8EP+gY5PEqhj+QdqPej/pUpfGCqVrzVicsOODHT+6ha5zrHoLJ2L2reAvP/9E1iuxE/E+xrjWc6iq4lnVa9gGdb9PgrWLa08yFnq5p1kGmgeDvMZ0AfyKGeMxn3bNTwcVcu6LmNOL/21Qz3iwJoY/78Ve0TjbKXKuWDV0TMfZti8++NbTZXCfkv2YTZU2CHuWEttd557op32KOwdaZjuIyzi33qBy65cqcIc69wbsuXXR2AcOhfgje4GPqNrxGOJaHh4KF4C8cyHddtnjW6TOPtHnpuChb7/OrmcR/yo2W5SOa63vDX/DPaTQvqy9VyljIxRPMMeXcbRLKYdC67YGdd5BAFfWuZ6o74aqN+5v4EzY52exvr1IyfmttEH3u5TD+mEpR7tcfZ/1f+h7Ei0rfxFfKGewMr9fczxD90D0Pao58t+ralL2PRXX3Y+s+yB2P9n9khVvysQNuXNSZt8hjz1XnqxyaOs6S5ufUgbvz43cpoTbOO8Hf3EXCveVpii9z7TKeSQdzzp/m+Q08VlHSoTfUq5O6T0r2IIvkDE2Suk4c9VF7I046pJ1r0r2pcFBcGGeUk60KMzXJqXzcEmXsaGf9v1B/d0u50rT7y6bWTr1fashhvDhHyIsZrZoLgAA
+  </data>
+ </layer>
+ <objectgroup name="objects" width="66" height="45">
+  <object name="sp_p_00" x="2910" y="2512"/>
+  <object name="sp_p_01" x="3952" y="432"/>
+  <object name="sp_p_02" x="1248" y="2496"/>
+  <object name="sp_p_04" x="3948" y="1370"/>
+  <object name="sp_p_05" x="2144" y="80"/>
+  <object name="sp_p_06" x="326" y="2542"/>
+  <object name="sp_p_07" x="3788" y="2444"/>
+  <object name="sp_p_08" x="2146" y="2492"/>
+  <object name="sp_p_09" x="294" y="1441"/>
+  <object name="sp_p_03" x="294" y="414"/>
+  <object name="wp_p_00" x="2146" y="2526">
+   <properties>
+    <property name="weapon" value="smaw,shotgun,shield"/>
+   </properties>
+  </object>
+  <object name="wp_p_01" x="1750" y="110">
+   <properties>
+    <property name="weapon" value="emp,m16"/>
+   </properties>
+  </object>
+  <object name="wp_p_03" x="2144" y="1476">
+   <properties>
+    <property name="weapon" value="m93ba"/>
+   </properties>
+  </object>
+  <object name="wp_p_02" x="2914" y="316">
+   <properties>
+    <property name="weapon" value="gasnade,fragnade"/>
+   </properties>
+  </object>
+  <object name="wp_p_04" x="292" y="1478">
+   <properties>
+    <property name="weapon" value="m14"/>
+   </properties>
+  </object>
+  <object name="wp_p_05" x="3790" y="2556">
+   <properties>
+    <property name="weapon" value="m14,m16"/>
+   </properties>
+  </object>
+  <object name="wp_p_07" x="3710" y="478">
+   <properties>
+    <property name="weapon" value="healthpack,boosttank,shield"/>
+   </properties>
+  </object>
+  <object name="wp_p_08" x="1236" y="322">
+   <properties>
+    <property name="weapon" value="gasnade,fragnade"/>
+   </properties>
+  </object>
+  <object name="wp_p_09" x="800" y="478">
+   <properties>
+    <property name="weapon" value="healthpack,boosttank,shield"/>
+   </properties>
+  </object>
+  <object name="wp_p_10" x="1638" y="2608">
+   <properties>
+    <property name="weapon" value="proxynade,gasnade,boosttank"/>
+   </properties>
+  </object>
+  <object name="wp_p_11" x="3932" y="1412">
+   <properties>
+    <property name="weapon" value="m14"/>
+   </properties>
+  </object>
+  <object name="wp_p_13" x="344" y="192">
+   <properties>
+    <property name="weapon" value="m14"/>
+   </properties>
+  </object>
+  <object name="wp_p_14" x="3908" y="228">
+   <properties>
+    <property name="weapon" value="m14"/>
+   </properties>
+  </object>
+  <object name="wp_p_15" x="2780" y="2610">
+   <properties>
+    <property name="weapon" value="proxynade,gasnade,boosttank"/>
+   </properties>
+  </object>
+  <object name="wp_p_20" x="2144" y="1056">
+   <properties>
+    <property name="weapon" value="boosttank"/>
+   </properties>
+  </object>
+  <object name="wp_p_30" x="328" y="2596">
+   <properties>
+    <property name="weapon" value="m16,m14"/>
+   </properties>
+  </object>
+  <object name="wp_p_25" x="2500" y="104">
+   <properties>
+    <property name="weapon" value="emp,m16"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
