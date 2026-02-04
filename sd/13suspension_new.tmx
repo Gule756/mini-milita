@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="77" height="30" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" source="t64_new.tsx"/>
+ <layer name="tilebg" width="77" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2W207DMAyG/f6PxM2yIcGYxmkwjuJdSNRaGGMndpuuAfpJVhrVTe0/dlOAhYWFhdNxiLbur9f9vDVCtBV0saXxfNZounhQtzTOHY9EgC42tFKMtA6mimdFrEXNElQzj6+ldzy+Q+KZA+xJOpb8qW+pDoJjbbp+q7oF+B6XpT95PlbNLBoE4X6rmvE682hWwlM3NB601jRLDMnJU2tef/5ci8yhWa14WsGTU8k/wPAzplXNAgzLyeqP64+ts9b+0ab8pmvPa4QR656KAL5zc6x/qW6oPz03W6qzAL7/M+rv0WDKM2NupupNb/6/Qaex/xq11td8cbwjds/maG+FeMYSMnHW8AfFX+tNyRdN0keyp0I8Eg/9sxaCEh/P6d3pT6nx/fNo9pLNWOYZftbwNtpFtEt2j+ZEr3lOr/C1fzU00ND8UTOtH3m/bjPvyGHZEyvHaI+ZnGppRtkwX0su3ry80H0pkfoda16rA2QX7Yo9b9UYe2RL1pF6g+eQODPkUYNczdF+ppQ003pf0ixpsuuvj5DvPwnrntdG27/raB/R9uwe9oykGc/z0PtvhPdi/eD3dsh3Y9/HeWrSO2/J/IbNrWD8aZTOMOw7rY4wjvR+aa/+O1QbnC8s/BU+AVMCnTMYJAAA
+  </data>
+ </layer>
+ <layer name="tile" width="77" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+1YW09TQRCef+ALioAoMRpjjL7gExepGo0kRLw/iJGqoPg7pCoVEEUFo/BbnS9nJ51OZ8/uoZFC0i+ZtGc7uzv77dxOifro4/hgwzxv9cSK44UfLB+UfO+tObTDsha+r4Xno4ZN8/y1J1a0AHua4Ts+e22PB4lNudtUbGo/yIXo5/jMUc8Vn1ga4bvc7UeWz4k5iOFdli8JXWAnrP07zEutDXt0bKbsOWysVhz3fkvFzj61+07O2k3zWTbnsIH8L/4CH1gP42U8WPtTsQO+5OxrznyNTWWLyHpizmEjZkuMB4kdOdc3lm2Kx46NtT0qYm03om9zWcrOXsDa8ovK+w1bY8V/Yn5pY00QuxPpezSnO46dvUQqn50w49YPUrUWHCC25C5SPaC1R+pHFc6q1vSqQJzos0hui53J9r9Sc2Nnsn4pyKk9whfwM6IPnGO5wDLI8pTlFMt5lmslc/4HqtbT2HjV/CTjmq8U5limWK6zjCuZz5gLvsdYnlE+x8jRNh8jjlKxkxtr1i+lVqT8UviSfVL92RNqcbXIUk/oC6apxXUOx9pGi1hO71ZfYmwvoh/zy/3IuAC+JpwtsbxnOZOY481bdnTse8+G+U2gc3pMX/RszvWe7bwBlpPOvqtq/C3La5Y3QUc4GAnP+oxYT8clYjXXb2zM6H41Jbm6Xh3MWduzrxs7cvbLgY5r8bfTLM9Z7jn6VXP6Qeug+NmWGq8b3QlnHZxnKozfIT9X1VhusbwMv9+M2BLDTNhD84a9XrBcZblIRU0Wn071ooDUFtSVP+TfZ4oz+1m2r84pQ1RwgfHHahxxC18YJD8HVQH2uB32AV/yH4StXeAVPhjLufpMYvc7iveLKe7tZ6wHhh97foJ5Oj/VqPAtnLXu6I+ynI3sYYH8iLy5HNb1epwmtXi1PaTAO5OOHZuX/kbskVj2uBujzp7Iu8MBivuxhr7PFSruOAfiE+JHWMf6rubDvgfo/n6MOs8U6zOxps2Xd6nFgceZrW2jxh5daxpKD3GJfh9xiVo6Ep6xptRZxJiO5RxMhHkeJ/gfAnlIuJQ+etyReWXTZeqMdZ3PkC8vUcEzcuAVavW09h0LsTxpbMZ9I95iORxcCR8iD6joS/G9qcYXWB6WMuRDeFsgnw+pq7gr1Cf97oG6Ifc0rcbLcv14WAM869xt9QAb+zqnAMLPErX7jhXwMmPGcP+on8MxYhKQWr1IrbpgRd+V8Kv3hB/OhnH08V7v1Aj7TIbzSv+p360RZ9vUGWvACrX3EXLfmgPpJ+6r3x6x3DDnsf5bFUPUXldeqb1ngz3Yd07ZVadO1MIc7UPWf8VWnBf5F9zhHUb8R+ch609e7pkgv9+ScdSxYWrvFbrlKwXh76A+LLZ7ttaoOIfuNeVT9wfd2tBHH0cR/wAqiabFGCQAAA==
+  </data>
+ </layer>
+ <objectgroup name="objects" width="77" height="30">
+  <object name="wp_p_00" x="2911" y="523">
+   <properties>
+    <property name="weapon" value="m16,m14"/>
+   </properties>
+  </object>
+  <object name="wp_p_02" x="2081" y="870">
+   <properties>
+    <property name="weapon" value="ak47,fragnade"/>
+   </properties>
+  </object>
+  <object name="wp_p_01" x="1313" y="1296">
+   <properties>
+    <property name="weapon" value="smaw,phasr"/>
+   </properties>
+  </object>
+  <object name="wp_p_03" x="3509" y="610">
+   <properties>
+    <property name="weapon" value="m93ba,m14"/>
+   </properties>
+  </object>
+  <object name="wp_p_04" x="4414" y="735">
+   <properties>
+    <property name="weapon" value="m16,ak47,tavor"/>
+   </properties>
+  </object>
+  <object name="wp_p_05" x="1312" y="324">
+   <properties>
+    <property name="weapon" value="m93ba,m14"/>
+   </properties>
+  </object>
+  <object name="wp_p_06" x="3681" y="865">
+   <properties>
+    <property name="weapon" value="uzi,mp5,shotgun,magnum"/>
+   </properties>
+  </object>
+  <object name="wp_p_07" x="1280" y="739">
+   <properties>
+    <property name="weapon" value="uzi,mp5,shotgun,magnum"/>
+   </properties>
+  </object>
+  <object name="wp_p_08" x="353" y="806">
+   <properties>
+    <property name="weapon" value="ak47,m16,tavor"/>
+   </properties>
+  </object>
+  <object name="sp_p_00" x="1306" y="32"/>
+  <object name="sp_p_01" x="1591" y="1213"/>
+  <object name="sp_p_02" x="3616" y="35"/>
+  <object name="sp_p_11" x="741" y="1388"/>
+  <object name="sp_p_04" x="356" y="551"/>
+  <object name="sp_p_05" x="2546" y="1224"/>
+  <object name="sp_p_05" x="2464" y="865"/>
+  <object name="sp_p_06" x="4450" y="547"/>
+  <object name="wp_p_12" x="2847" y="868">
+   <properties>
+    <property name="weapon" value="ak47,fragnade"/>
+   </properties>
+  </object>
+  <object name="wp_p_20" x="2848" y="1567">
+   <properties>
+    <property name="weapon" value="healthpack,machete,gasnade"/>
+   </properties>
+  </object>
+  <object name="wp_p_21" x="4577" y="960">
+   <properties>
+    <property name="weapon" value="healthpack,boosttank"/>
+   </properties>
+  </object>
+  <object name="sp_p_10" x="3969" y="1266"/>
+  <object name="sp_p_12" x="2080" y="164"/>
+  <object name="sp_p_13" x="2848" y="163"/>
+  <object name="wp_p_11" x="1792" y="1448">
+   <properties>
+    <property name="weapon" value="mp5,ak47,tavor"/>
+   </properties>
+  </object>
+  <object name="wp_p_14" x="4255" y="1064">
+   <properties>
+    <property name="weapon" value="flame,proxynade,emp"/>
+   </properties>
+  </object>
+  <object name="wp_p_15" x="3123" y="1319">
+   <properties>
+    <property name="weapon" value="ak47,mp5,tavor"/>
+   </properties>
+  </object>
+  <object name="wp_p_16" x="804" y="1408">
+   <properties>
+    <property name="weapon" value="shotgun,riot,machete"/>
+   </properties>
+  </object>
+  <object name="wp_p_17" x="736" y="1060">
+   <properties>
+    <property name="weapon" value="flame,proxynade,emp"/>
+   </properties>
+  </object>
+  <object name="wp_p_18" x="4159" y="1213">
+   <properties>
+    <property name="weapon" value="fragnade,gasnade,proxynade"/>
+   </properties>
+  </object>
+  <object name="wp_p_19" x="419" y="1344">
+   <properties>
+    <property name="weapon" value="healthpack,boosttank"/>
+   </properties>
+  </object>
+  <object name="wp_p_24" x="2083" y="1568">
+   <properties>
+    <property name="weapon" value="healthpack,machete,gasnade"/>
+   </properties>
+  </object>
+  <object name="wp_p_16" x="4099" y="1394">
+   <properties>
+    <property name="weapon" value="shotgun,riot,machete"/>
+   </properties>
+  </object>
+  <object name="sp_p_26" x="3317" y="1252"/>
+  <object name="wp_p_18" x="863" y="1201">
+   <properties>
+    <property name="weapon" value="fragnade,gasnade,proxynade"/>
+   </properties>
+  </object>
+  <object name="wp_p_27" x="3551" y="1361">
+   <properties>
+    <property name="weapon" value="smaw,phasr"/>
+   </properties>
+  </object>
+  <object name="wp_p_30" x="2080" y="544">
+   <properties>
+    <property name="weapon" value="m16,m14"/>
+   </properties>
+  </object>
+  <object name="wp_p_31" x="2371" y="1460">
+   <properties>
+    <property name="weapon" value="fragnade,gasnade,proxynade"/>
+   </properties>
+  </object>
+  <object name="wp_p_32" x="2558" y="1461">
+   <properties>
+    <property name="weapon" value="fragnade,gasnade,proxynade"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
